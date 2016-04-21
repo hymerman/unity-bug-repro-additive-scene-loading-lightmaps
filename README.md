@@ -23,6 +23,7 @@ After step 5 I would expect that scene C would be shown and have correct lightin
 
 ## Actual behaviour
 Scene C is visible but seems to be using the wrong lightmaps, as its plane is textured with a bunch of red squares and the objects are all flat (and wrong!) colours.
+![alt text](bug.png "Image showing described lightmap corruption")
 
 Scenes A and B are also messed up (with nasty-looking corruption) but I don't have much expectation that they would look ok, if they're not active and they have different lighting to scene C.
 
