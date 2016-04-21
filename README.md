@@ -9,7 +9,7 @@ This project contains three small scenes with different lightmap data, and a lit
 Each scene is at a different point in space and the main camera is set up to frame them all, to show the problems clearly.
 
 ## Repro steps
-- Build this Unity project in Windows Standalone (any bitness, dev or not). Versions 5.3.4f1 and 5.4.0b14 tested.
+- Build this Unity project in Windows Standalone (any bitness, dev or not). Versions 5.3.4f1, 5.3.4p4 and 5.4.0b14 tested.
 - Run it
 - Click the buttons in this order:
   1. Load A
